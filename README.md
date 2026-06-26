@@ -1,6 +1,6 @@
 # SaaS Growth & Retention Analytics Portfolio
 
-A 3-stage data analytics case study on a SaaS business — diagnosing churn, identifying revenue risks, and evaluating growth efficiency using Excel, SQL, and Tableau.
+A 3-stage data analytics case study on a SaaS business diagnosing churn, identifying revenue risks, and evaluating growth efficiency using Excel, SQL, and Tableau.
 
 ## Tools
 
